@@ -9275,6 +9275,8 @@ textarea.form-control {
     background-position: center center !important; } }
 
 .ftco-counter .block-18 {
+  min-height: 200px;
+  min-width: 180px;
   display: block;
   width: 100%;
   text-align: center;
